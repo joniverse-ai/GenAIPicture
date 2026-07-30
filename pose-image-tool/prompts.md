@@ -1,5 +1,11 @@
 # Test Prompts
 
+## 사용한 프롬프트
+
+a man wearing a spider-man costume, standing with confident pose, urban background, cinematic lighting, photorealistic
+
+## 기타 테스트 프롬프트
+
 A woman in a elegant black dress, studio lighting, soft shadows, professional portrait, photorealistic
 
 A man in a suit standing on a rooftop at sunset, dramatic lighting, city skyline background, cinematic
